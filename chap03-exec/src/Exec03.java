@@ -24,3 +24,4 @@ public class Exec03 {
 		scanner.close();
 	}
 }
+
